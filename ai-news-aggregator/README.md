@@ -124,16 +124,30 @@ ai-news-aggregator/
 ├── uv.lock                       # Dependency lock file
 └── README.md
 ```
+## APPLICATION LOGS: 
+
+![OUTPUT IMAGE]
+
 
 <img src="images/Output1.jpg" alt="Screenshot" width="600">
 
+
+
+
+![OUTPUT IMAGE2]
 
 
 <img src="images/Output2.jpg" alt="Screenshot" width="600">
 
 
 
+## FINAL EMAIL DIGEST DAILY RUNNER: 
+
+
+![EMAIL_SCREENSHOT]
+
 <img src="images/EmailDigest.jpg" alt="Screenshot" width="600">
+
 
 
 
@@ -141,7 +155,7 @@ ai-news-aggregator/
 
 ### Prerequisites
 
-- Python 3.14 or higher
+- Python 3.12 or higher
 - Docker and Docker Compose
 - OpenAI API key
 - Gmail account with App Password enabled
@@ -464,9 +478,7 @@ The pipeline provides detailed logging:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
