@@ -129,7 +129,7 @@ ai-news-aggregator/
 ![OUTPUT IMAGE]
 
 
-<img src="images/Output1.jpg" alt="Screenshot" width="600">
+<img src="images/Output1.jpg" alt="Screenshot" width="900">
 
 
 
@@ -137,7 +137,7 @@ ai-news-aggregator/
 ![OUTPUT IMAGE2]
 
 
-<img src="images/Output2.jpg" alt="Screenshot" width="600">
+<img src="images/Output2.jpg" alt="Screenshot" width="900">
 
 
 
@@ -146,7 +146,7 @@ ai-news-aggregator/
 
 ![EMAIL_SCREENSHOT]
 
-<img src="images/EmailDigest.jpg" alt="Screenshot" width="600">
+<img src="images/EmailDigest.jpg" alt="Screenshot" width="900">
 
 
 
